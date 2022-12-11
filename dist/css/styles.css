@@ -11336,7 +11336,7 @@ body {
   position: absolute;
   color: #000;
   background-color: #000;
-  font: bold 4em "Helvetica";
+  font: bold 3vmin "Helvetica";
   text-shadow: 0 -1px 5px #fff, -1px 0px 5px #fff, 0 1px 5px #fff, 1px 0px 5px #fff;
   padding: 2rem;
   mix-blend-mode: difference;
